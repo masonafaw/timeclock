@@ -419,8 +419,8 @@ $city = "Topeka, KS";
 /* --- APP NAME, VERSION NUMBER, ETC. --- */
 
 
-$app_name = "PHP Timeclock";
-$app_version = "2.0.0";
+$app_name = "Mason and Xander Timeclock";
+$app_version = "0.0.1";
 
 /* Sets the title in the header. This is what the page will be named by default when you
    make a "favorite" or "bookmark" in your browser. Change as you see fit. */
